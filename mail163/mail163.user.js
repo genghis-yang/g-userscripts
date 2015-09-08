@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name			mail163 
 // @description		Auto-login of 163 mail
-// @version			0.0.1
+// @version			0.0.2
 // @match			http://mail.163.com/*
 // ==/UserScript==
 // Copyright (c) 2015, Genghis Yang
